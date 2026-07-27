@@ -193,6 +193,12 @@ chennai_real_estate_market_segments.html
 
 This map allows users to interactively explore different Chennai real-estate market segments.
 
+## Interactive Map
+
+Explore the interactive Chennai Real Estate Market Segmentation Map:
+
+(https://anu-priya12389.github.io/ML-Task-3/chennai_real_estate_market_segments.html)
+
 ## Conclusion
 
 This project demonstrates how machine learning and geospatial visualization can be combined to analyze real-estate markets.
